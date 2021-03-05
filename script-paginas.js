@@ -1,6 +1,8 @@
+//Versão 
+document.getElementsByClassName('version-novajus')[0].textContent = "Versão Educacional UNINOVE - By Filipe Pacheco"
 
 //menuhome
-document.getElementById("menu-id-4bd31506d9e045fc8c0aba6da3ebed2d").href = "menuhome.html";
+document.getElementById("menu-id-4bd31506d9e045fc8c0aba6da3ebed2d").href = "index.html";
 
 //menucontatos
 document.getElementById("menu-id-babe357280f24735842ed50a4b98e453").href = "menucontatos.html";
